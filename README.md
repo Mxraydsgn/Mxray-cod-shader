@@ -1,3 +1,5 @@
+# UPDATE: I have a new addon out, with new, improved shaders [MDS Shader](https://github.com/Mxraydsgn/MDS-Shader)
+
 # COD SIMPLE SHADER PACK
 *.by Mxray Design*
  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/seNzzch.png">
